@@ -12,12 +12,13 @@ Sou um profissional focado na área de **Riscos FInanceiros e Análise de Dados*
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Python](https://shields.io)
-![R](https://shields.io)
-![MATLAB](https://shields.io)
-![Apache Spark](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Git](https://shields.io)
+- 📑 **Python** | Desenvolvimento de scripts para Engenharia de Dados e pipelines ETL
+- 📊 **R Language** | Modelagem analítica e análise estatística avançada
+- 📐 **MATLAB** | Computação numérica e simulação de modelos matemáticos
+- ⚡ **Apache Spark & PySpark** | Processamento distribuído e manipulação de Big Data
+- 🗄️ **PostgreSQL** | Gerenciamento de bancos de dados relacionais e queries estruturadas
+- 🐙 **Git & GitHub** | Versionamento seguro de código e fluxos de trabalho colaborativos
+
 
 
 ### 📁 Projetos em Destaque
