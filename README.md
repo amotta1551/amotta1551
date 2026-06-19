@@ -1,30 +1,33 @@
-# Olá, sou Anderson 👋
+# Hi, I'm Anderson 👋
+# Data Science and Risk Manager! 🚀
 
-# Sou um Data Science and Risk Manager! 🚀
+### 👨‍💻 About Me
+I am a professional focused on **Financial Risk and Data Analytics**. My passion lies in gathering raw data volumes and transforming them into clean, secure, and production-ready structures to drive business decisions. Currently, I dedicate my time to building modern architectures and automating efficient pipelines.
 
-### 👨‍💻 Sobre Mim
-Sou um profissional focado na área de **Riscos Financeiros e Análise de Dados**. Minha paixão é coletar volumes brutos de informação e transformá-los em estruturas limpas, seguras e prontas para decisões de negócios. Atualmente, dedico meu tempo à construção de arquiteturas modernas e automação de pipelines eficientes.
+- 💼 **Current Focus:** Seeking professional opportunities within the Financial Risk and Data Analytics ecosystem.
+- 🌱 **Specialization:** Deepening my knowledge in **Distributed Computing (Spark)** and **Lakehouse Architecture**.
+- 🔐 **Best Practices:** Strongly committed to code security, high performance, and stability.
 
-- 💼 **Foco Atual:** Buscando oportunidades profissionais no ecossistema Riscos Financeiros e Análise de Dados
-- 🌱 **Especialização:** Aprofundando conhecimentos em **Processamento Distribuído (Spark)** e **Arquitetura Lakehouse**.
-- 🔐 **Boas Práticas:** Valorizo a segurança, performance e estabilididade do código.
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack & Tools
 
-- 📑 **Python** | Desenvolvimento de scripts para Engenharia de Dados e pipelines ETL
-- 📊 **R Language** | Modelagem analítica e análise estatística avançada
-- 📐 **MATLAB** | Computação numérica e simulação de modelos matemáticos
-- ⚡ **Apache Spark & PySpark** | Processamento distribuído e manipulação de Big Data
-- 🗄️ **PostgreSQL** | Gerenciamento de bancos de dados relacionais e queries estruturadas
-- 🐙 **Git & GitHub** | Versionamento seguro de código e fluxos de trabalho colaborativos
+- 📑 **Python** | Scripting for Data Engineering and robust ETL pipelines
+- 📊 **R Language** | Analytical modeling, forecasting, and advanced statistical analysis
+- 📐 **MATLAB** | Numerical computing, algorithm development, and mathematical modeling
+- ⚡ **Apache Spark & PySpark** | Distributed processing and large-scale Big Data manipulation
+- 🗄️ **PostgreSQL** | Relational database management and optimized structured queries
+- 🐙 **Git & GitHub** | Secure version control and collaborative workflows
+
 ---
-### 📁 Projetos em Destaque
 
-*   **[Projeto Spark](https://github.com)**: Pipeline de análise unificada desenvolvido em Python (`analise_unificada.ipynb`), focado na leitura eficiente de bancos relacionais (Neon DB / PostgreSQL) com processamento performático e integração com ambiente corporativo de dados.
+### 📁 Featured Projects
 
+* **[Spark Project](https://github.com)**: A unified analysis pipeline developed in Python (`analise_unificada.ipynb`), focused on high-performance ingestion from relational databases (Neon DB / PostgreSQL) integrated with a corporate data environment.
 
-### 🌐 Conecte-se Comigo
-- 👔 **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/andersonmotta/)
-- 📧 **E-mail:** [Entre em contato comigo](mailto:amotta1551@gmail.com)
 ---
+
+### 🌐 Connect with Me
+
+- 👔 **LinkedIn:** [Access my professional profile](https://www.linkedin.com/in/andersonmotta/)
+- 📧 **Email:** [Get in touch](mailto:amotta1551@gmail.com)
