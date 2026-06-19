@@ -15,27 +15,27 @@ Sou um profissional focado na área de **Riscos FInanceiros e Análise de Dados*
 <table border="0">
   <tr>
     <td align="center" width="120">
-      <img src="https://jsdelivr.net" width="45" height="45" alt="Python" /><br />
+      <img src="https://githubusercontent.com" width="45" height="45" alt="Python" /><br />
       <b>Python (ETL)</b>
     </td>
     <td align="center" width="120">
-      <img src="https://jsdelivr.net" width="45" height="45" alt="R Language" /><br />
+      <img src="https://githubusercontent.com" width="45" height="45" alt="R Language" /><br />
       <b>R (Estatística)</b>
     </td>
     <td align="center" width="120">
-      <img src="https://jsdelivr.net" width="45" height="45" alt="MATLAB" /><br />
+      <img src="https://githubusercontent.com" width="45" height="45" alt="MATLAB" /><br />
       <b>MATLAB</b>
     </td>
     <td align="center" width="120">
-      <img src="https://jsdelivr.net" width="45" height="45" alt="Apache Spark" /><br />
+      <img src="https://githubusercontent.com" width="45" height="45" alt="Apache Spark" /><br />
       <b>PySpark / Spark</b>
     </td>
     <td align="center" width="120">
-      <img src="https://jsdelivr.net" width="45" height="45" alt="PostgreSQL" /><br />
+      <img src="https://githubusercontent.com" width="45" height="45" alt="PostgreSQL" /><br />
       <b>PostgreSQL</b>
     </td>
     <td align="center" width="120">
-      <img src="https://jsdelivr.net" width="45" height="45" alt="Git" /><br />
+      <img src="https://githubusercontent.com" width="45" height="45" alt="Git" /><br />
       <b>Git & GitHub</b>
     </td>
   </tr>
