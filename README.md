@@ -12,34 +12,13 @@ Sou um profissional focado na área de **Riscos FInanceiros e Análise de Dados*
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<table border="0">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" width="45" height="45" alt="Python" /><br />
-      <b>Python (ETL)</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" width="45" height="45" alt="R Language" /><br />
-      <b>R (Estatística)</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" width="45" height="45" alt="MATLAB" /><br />
-      <b>MATLAB</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" width="45" height="45" alt="Apache Spark" /><br />
-      <b>PySpark / Spark</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" width="45" height="45" alt="PostgreSQL" /><br />
-      <b>PostgreSQL</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://githubusercontent.com" width="45" height="45" alt="Git" /><br />
-      <b>Git & GitHub</b>
-    </td>
-  </tr>
-</table>
+![Python](https://shields.io)
+![R](https://shields.io)
+![MATLAB](https://shields.io)
+![Apache Spark](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Git](https://shields.io)
+
 
 ### 📁 Projetos em Destaque
 
