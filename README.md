@@ -1,4 +1,4 @@
-# Olá, eu sou o [Anderson] 👋
+# Olá, sou Anderson 👋
 
 # Sou um Data Science and Risk Manager! 🚀
 
